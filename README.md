@@ -9,4 +9,28 @@
 效果图如下:
 
 
-![image]()
+![image](https://github.com/29DCH/ChineseChess/blob/master/1.png)
+
+
+![image](https://github.com/29DCH/ChineseChess/blob/master/2.png)
+
+
+![image](https://github.com/29DCH/ChineseChess/blob/master/3.png)
+
+
+![image](https://github.com/29DCH/ChineseChess/blob/master/4.png)
+
+
+![image](https://github.com/29DCH/ChineseChess/blob/master/5.png)
+
+
+![image](https://github.com/29DCH/ChineseChess/blob/master/6.png)
+
+
+![image](https://github.com/29DCH/ChineseChess/blob/master/7.png)
+
+
+![image](https://github.com/29DCH/ChineseChess/blob/master/8.png)
+
+
+![image](https://github.com/29DCH/ChineseChess/blob/master/9.png)
